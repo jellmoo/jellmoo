@@ -2,11 +2,7 @@
 	
 <img src="https://i.imgur.com/RhMtYIx.png" />
 
-<p align="center">🎀 Coding with passion and chill vibes 🎀</p> </div>
-
 </div>
-
-----------
 
 ## 💫 About Me
 
