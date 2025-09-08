@@ -5,6 +5,7 @@
 <p align="center">🎀 Coding with passion and chill vibes 🎀</p> </div>
 
 </div>
+
 ----------
 
 ## 💫 About Me
@@ -80,18 +81,19 @@ const developer = {
 ### 🎀 GitHub Trophies
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=jellmoo&color=ff69b4&style=for-the-badge&label=Profile+Views)
- ![Trophy](https://github-profile-trophy.vercel.app/?username=jellmoo&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=jellmoo&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)
 
 ----------
 
 <div align="center">
 
 ```
-						💖✨🌸 Thanks for stopping by my digital space! 🌸✨💖
+💖✨🌸 Thanks for stopping by my digital space! 🌸✨💖
 
 						          
 						                     
-						                  💫 Keep coding! 💫
+💫 Keep coding! 💫
 ```
 
 </div>
