@@ -93,7 +93,7 @@ const developer = {
 							
 													          
 													                     
-											💫 Keep coding! 💫
+										💫 Keep coding! 💫
 ```
 
 </div>
