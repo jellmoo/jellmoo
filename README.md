@@ -1,18 +1,10 @@
-
 <div align="center">
+	
+<img src="https://i.imgur.com/RhMtYIx.png" />
 
-# <div align="center">💖 Welcome to My Digital Universe 💖</div> 
+<p align="center">🎀 Coding with passion and chill vibes 🎀</p> </div>
 
-```ascii
-							    ✨                 💫                ✨
-							         💖      Hello, World!     💖
-							    🌸                 ✨                🌸
-							         ✨         Welcome!       ✨
-							    💫                 💖                💫
-```
-
-<p align="center">🎀 Coding with passion and pink vibes 🎀</p> </div>
-
+</div>
 ----------
 
 ## 💫 About Me
@@ -31,7 +23,7 @@ const developer = {
 
 ## 🌸 My Digital Stats
 
-<div align="center">
+<div align="left">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jellmoo&show_icons=true&theme=radical&bg_color=0d1117&title_color=ff69b4&text_color=ffffff&icon_color=ff1493&border_color=ff69b4)
 
@@ -62,7 +54,7 @@ const developer = {
 
 ## 🎀 Fun  Facts
 
-<div align="center">
+<div align="left">
 
 ```
 💖 Cat enthusiast — my best debugging buddy sits on my keyboard
@@ -89,8 +81,6 @@ const developer = {
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=jellmoo&color=ff69b4&style=for-the-badge&label=Profile+Views)
  ![Trophy](https://github-profile-trophy.vercel.app/?username=jellmoo&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)
-
-</div>
 
 ----------
 
