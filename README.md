@@ -89,11 +89,10 @@ const developer = {
 <div align="center">
 
 ```
-									💖✨🌸 Thanks for stopping by my digital space! 🌸✨💖
-							
-													          
-													                     
-										💫 Keep coding! 💫
+      |\      _,,,---,,_
+ZZZzz /,`.-'`'    -.  ;-;;,_
+     |,4-  ) )-,_. ,\ (  `'-'
+    '---''(_/--'  `-'\_) 
 ```
 
 </div>
