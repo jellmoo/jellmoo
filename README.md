@@ -26,8 +26,6 @@ const developer = {
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jellmoo&layout=compact&theme=radical&bg_color=0d1117&title_color=ff69b4&text_color=ffffff&border_color=ff69b4)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jellmoo&theme=radical&background=0d1117&border=ff69b4&stroke=ff69b4&ring=ff1493&fire=ff6347&currStreakLabel=ff69b4)
-
 </div>
 
 ----------
