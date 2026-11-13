@@ -1,109 +1,27 @@
-<div align="center">
-	
-<img src="https://i.imgur.com/RhMtYIx.png" />
-
-</div>
-
-## 💫 About Me
-
-```javascript
-const developer = {
-    name: "Moe",
-    location: "United States",
-    currentlyLearning: ["💖 JavaScript", "✨ Modern design patterns"],
-    askMeAbout: ["💻 Code", "🎨 UI/UX", "☕ Late-night coding sessions"],
-    funFact: "Professional self-teacher 💖"
-};
-```
-
-----------
-
-## 🌸 My Digital Stats
-
-<div align="left">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jellmoo&show_icons=true&theme=radical&bg_color=0d1117&title_color=ff69b4&text_color=ffffff&icon_color=ff1493&border_color=ff69b4)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jellmoo&layout=compact&theme=radical&bg_color=0d1117&title_color=ff69b4&text_color=ffffff&border_color=ff69b4)
-
-</div>
-
-----------
-
-<div align="center">
-
-### <div align="center">💖 Languages & Technologies</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFD700" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FF69B4" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=FF1493" />
-  <img src="https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=FF69B4" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=FF1493" />
-</p>
-
-</div>
+![Morgan Jellison](https://github.com/user-attachments/assets/1d834173-41ab-4b91-be8c-f4e97257a6a2)
 
 
-----------
+## 🌸 About Me
 
-## 🎀 Fun  Facts
+Hi, I'm Morgan! I'm an aspiring data analyst transitioning from a background in human resources and administrative operations.
 
-<div align="left">
+I have experience working with Excel, managing employee records, and organizing large amounts of information. I'm currently completing the Google Data Analytics Professional Certificate and developing my skills in SQL, data cleaning, and visualization.
 
-```
-💖 Cat enthusiast — my best debugging buddy sits on my keyboard
-✨ Eye for design — love making things look just right
-🌸 Gamer at heart — currently grinding in Old School RuneScape
-💫 Artsy soul — crocheting and digital art fuel my creativity
-```
+I enjoy turning messy data into organized, meaningful information and am building a portfolio to showcase my progress.
 
-</div>
 
-----------
+## 🛠️ Skills & Tools
 
-<div align="center">
+- **Spreadsheets:** Microsoft Excel, Google Sheets
+- **Databases:** SQL (BigQuery)
+- **Data Skills:** Data Cleaning, Data Validation, Data Analysis
+- **Other Tools:** Microsoft SharePoint, PowerPoint, Word
+- **Currently Learning:** Data Visualization, R Programming
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jellmoo&bg_color=0d1117&color=ff69b4&line=ff1493&point=ffffff&area=true&hide_border=true)](https://github.com/jellmoo)
 
-</div>
+## 📁 Portfolio Projects
 
-----------
+Explore my data analytics projects, including SQL analysis, data cleaning, and visualizations.
 
-<!-- ## 🌸 Let's Connect! <div align="center"> [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF69B4)](https://github.com/jellmoo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF1493))](https://linkedin.com/in/YOUR_LINKEDIN) [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=FF69B4)](https://twitter.com/YOUR_TWITTER) [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF1493)](mailto:your.email@example.com) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF69B4)](https://yourportfolio.com/) </div> ---------- --> <div align="center">
+**[View My Data Analytics Portfolio](https://github.com/jellmoo/Data-Analytics-Portfolio)**
 
-### 🎀 GitHub Trophies
-
-![Visitor Count](https://komarev.com/ghpvc/?username=jellmoo&color=ff69b4&style=for-the-badge&label=Profile+Views)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=jellmoo&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)
-
-----------
-
-<div align="center">
-
-```
-      |\      _,,,---,,_
-ZZZzz /,`.-'`'    -.  ;-;;,_
-     |,4-  ) )-,_. ,\ (  `'-'
-    '---''(_/--'  `-'\_) 
-```
-
-</div>
-
-----------
-
-<div align="center"> <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> </div>
-
-----------
-
-<div align="center">
-
-### 🎀 Joke of the Day
- 
- 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder)
-
-</div>
-
-----------
